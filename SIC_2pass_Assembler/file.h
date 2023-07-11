@@ -1,0 +1,1 @@
+extern int length,start_address;
